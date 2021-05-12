@@ -83,6 +83,4 @@ Now after you finished your app and we assume that you already pushed it to your
 
 ## Copyright and License
 
-This coding challenge is§ based on Accenture Coding Challenge. See the previous commits.
-
 Code released under the MIT License.
