@@ -68,9 +68,10 @@ Please understand that this challenge is not decisive if you are applying to wor
 
 * Features are as important as code quality. Try to balance between code quality and number of features implemented
 * Your code will be evaluated in this order based on: code structure, programming best practices, legibility and number of features implemented or speed
+* Re/use as much as possible libraries and available code (watch out the quality of the code!)
 * The git commit history (and git commit messages) will be also evaluated
 * Please run tests and provide the results of the first and last run
-* Do not forget to include few details about the project in the PROJECT.md 
+* Do not forget to include few details about the project in the PROJECT.md
 
 ## Submission
 
